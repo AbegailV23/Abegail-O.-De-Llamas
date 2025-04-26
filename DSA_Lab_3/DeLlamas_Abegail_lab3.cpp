@@ -93,7 +93,7 @@ void convertToPostfix(string input){
 }
 
 int main() {
-    string input = "5+5+3*4-7";
+    string input = "";
     convertToPostfix(input);
 
     return 0;
